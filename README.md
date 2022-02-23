@@ -1,4 +1,4 @@
-# Weather-App
+# Weather-App using Weather API
 
 The following web application is used to get the weather information of all major NZ airports using the weather api. 
 
